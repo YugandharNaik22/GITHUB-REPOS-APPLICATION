@@ -1,0 +1,20 @@
+/* write your css code */
+/* Styles.css */
+
+.counter-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px;
+}
+
+.action-button {
+  font-size: 1.5em;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.count-display {
+  font-size: 2em;
+  font-weight: bold;
+}
